@@ -1,4 +1,5 @@
 # react-native-marketplace
+![react-native-marketplace](https://i.ibb.co/Qv3wzhc/app.jpg)
 Для запуска через приложение ExpoGO на вашем андройд устройстве необходимо:
 
 NodeJS version 18.16.0
